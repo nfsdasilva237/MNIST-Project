@@ -324,7 +324,7 @@ Output Layer: 10 neurones (Softmax)
 École Nationale Supérieure Polytechnique de Yaoundé (ENSPY)  
 
 **Contact** :nguifrancksteve@gmail.com  
-**GitHub** : [github.com/votre-username](https://github.com/votre-username)
+
 
 ---
 
