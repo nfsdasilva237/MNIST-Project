@@ -1,0 +1,10 @@
+artifact_location: file:///D:/school/AIA4/DEEP/mlruns/0/models/m-c5fd9673bb8f45a49c395799fc513f77/artifacts
+creation_timestamp: 1760914198765
+experiment_id: '0'
+last_updated_timestamp: 1760914215401
+model_id: m-c5fd9673bb8f45a49c395799fc513f77
+model_type: null
+name: mnist_model
+source_run_id: 29f49e21be9a45d49c8b1cb87dab4932
+status: 2
+status_message: null

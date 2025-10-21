@@ -1,0 +1,22 @@
+artifact_path: file:///D:/school/AIA4/DEEP/mlruns/0/models/m-c5fd9673bb8f45a49c395799fc513f77/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.11.9
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.5.0
+model_id: m-c5fd9673bb8f45a49c395799fc513f77
+model_size_bytes: 4907687
+model_uuid: m-c5fd9673bb8f45a49c395799fc513f77
+prompts: null
+run_id: 29f49e21be9a45d49c8b1cb87dab4932
+utc_time_created: '2025-10-19 22:49:58.817004'
